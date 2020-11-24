@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frontend_staycay/precache-manifest.45dfd8d65e0dd0a3e3417e993b007704.js"
+  "/frontend_staycay/precache-manifest.1b10221f19c1172883997abeb3227b74.js"
 );
 
 self.addEventListener('message', (event) => {

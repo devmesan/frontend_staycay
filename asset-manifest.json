@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/frontend_staycay/static/css/main.3e0ff8f3.chunk.css",
-    "main.js": "/frontend_staycay/static/js/main.534b8780.chunk.js",
-    "main.js.map": "/frontend_staycay/static/js/main.534b8780.chunk.js.map",
+    "main.js": "/frontend_staycay/static/js/main.fbe2f82d.chunk.js",
+    "main.js.map": "/frontend_staycay/static/js/main.fbe2f82d.chunk.js.map",
     "runtime-main.js": "/frontend_staycay/static/js/runtime-main.d38a4fae.js",
     "runtime-main.js.map": "/frontend_staycay/static/js/runtime-main.d38a4fae.js.map",
     "static/css/2.33d22cee.chunk.css": "/frontend_staycay/static/css/2.33d22cee.chunk.css",
-    "static/js/2.fd8564e0.chunk.js": "/frontend_staycay/static/js/2.fd8564e0.chunk.js",
-    "static/js/2.fd8564e0.chunk.js.map": "/frontend_staycay/static/js/2.fd8564e0.chunk.js.map",
+    "static/js/2.afb2d7aa.chunk.js": "/frontend_staycay/static/js/2.afb2d7aa.chunk.js",
+    "static/js/2.afb2d7aa.chunk.js.map": "/frontend_staycay/static/js/2.afb2d7aa.chunk.js.map",
     "index.html": "/frontend_staycay/index.html",
-    "precache-manifest.45dfd8d65e0dd0a3e3417e993b007704.js": "/frontend_staycay/precache-manifest.45dfd8d65e0dd0a3e3417e993b007704.js",
+    "precache-manifest.1b10221f19c1172883997abeb3227b74.js": "/frontend_staycay/precache-manifest.1b10221f19c1172883997abeb3227b74.js",
     "service-worker.js": "/frontend_staycay/service-worker.js",
     "static/css/2.33d22cee.chunk.css.map": "/frontend_staycay/static/css/2.33d22cee.chunk.css.map",
     "static/css/main.3e0ff8f3.chunk.css.map": "/frontend_staycay/static/css/main.3e0ff8f3.chunk.css.map",
-    "static/js/2.fd8564e0.chunk.js.LICENSE.txt": "/frontend_staycay/static/js/2.fd8564e0.chunk.js.LICENSE.txt",
+    "static/js/2.afb2d7aa.chunk.js.LICENSE.txt": "/frontend_staycay/static/js/2.afb2d7aa.chunk.js.LICENSE.txt",
     "static/media/completed.jpg": "/frontend_staycay/static/media/completed.6c41f304.jpg",
     "static/media/ic_calendar.svg": "/frontend_staycay/static/media/ic_calendar.b7f494cc.svg",
     "static/media/ic_cities.svg": "/frontend_staycay/static/media/ic_cities.f5b13ef1.svg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.d38a4fae.js",
     "static/css/2.33d22cee.chunk.css",
-    "static/js/2.fd8564e0.chunk.js",
+    "static/js/2.afb2d7aa.chunk.js",
     "static/css/main.3e0ff8f3.chunk.css",
-    "static/js/main.534b8780.chunk.js"
+    "static/js/main.fbe2f82d.chunk.js"
   ]
 }
